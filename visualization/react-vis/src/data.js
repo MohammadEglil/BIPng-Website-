@@ -1,4 +1,4 @@
-const context = require.context('../../../bips_json', false, /\.json$/); // Match all JSON files
+const context = require.context('../public/bips_json_hosted', false, /\.json$/); // Match all JSON files
 
 const allFiles = context.keys();
 

@@ -1,0 +1,10 @@
+requests
+pytrends
+networkx
+plotly
+wordcloud
+dash
+matplotlib
+mistune
+spacy
+openai
